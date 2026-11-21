@@ -6,4 +6,6 @@
     <dimen name="icon_padding">8dp</dimen>
     <dimen name="button_icon_size">24dp</dimen>
     <dimen name="button_text_size">22sp</dimen>
+    <dimen name="button_main_layout_height">60dp</dimen>
+    <dimen name="button_main_layout_weight">1</dimen>
 </resources>

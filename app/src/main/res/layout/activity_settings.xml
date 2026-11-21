@@ -17,6 +17,7 @@
         android:layout_marginBottom="24dp">
 
         <Button
+            android:id="@+id/back_arrow_button"
             android:contentDescription="@string/back_arrow"
             android:layout_width="48dp"
             android:layout_height="48dp"
@@ -59,8 +60,7 @@
                 android:layout_width="48dp"
                 android:layout_height="match_parent"
                 tools:ignore="UseSwitchCompatOrMaterialXml"
-                android:layout_gravity="end"
-                android:paddingRight="-5dp"/>
+                android:layout_gravity="end"/>
         </FrameLayout>
     </LinearLayout>
     <LinearLayout
